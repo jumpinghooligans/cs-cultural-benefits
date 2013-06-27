@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="cs_blue">#003465</color>
+<color name="cs_blue_image">#005389</color>
+<color name="cs_blue_image_85">#D8005389</color>
+<color name="white">#ffffff</color>
+<color name="dark_gray">#555555</color>
+<color name="light_gray">#cccccc</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSCulturalBenefits/CSCulturalBenefits.iml" filepath="$PROJECT_DIR$/CSCulturalBenefits/CSCulturalBenefits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSCulturalBenefitsProject.iml" filepath="$PROJECT_DIR$/CSCulturalBenefitsProject.iml" />
+    </modules>
+  </component>
+</project>
+

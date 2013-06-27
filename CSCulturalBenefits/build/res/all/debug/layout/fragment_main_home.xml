@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity$DummySectionFragment">
+
+        <ImageView
+                android:layout_width="243sp"
+                android:layout_height="80sp"
+                android:id="@+id/imageView"
+                android:layout_gravity="left|center_vertical"
+                android:src="@drawable/logo"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:paddingLeft="5sp"
+                android:adjustViewBounds="true" />
+
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Credit Suisse"
+                android:id="@+id/title"
+                android:textIsSelectable="true"
+                android:textSize="@dimen/titleText"
+                android:paddingBottom="5sp"
+                android:paddingLeft="5sp"
+                android:paddingTop="20sp"
+                android:gravity="left"
+                android:textStyle="bold"
+                android:textColor="@color/cs_blue_image"
+                android:layout_below="@+id/imageView"
+                android:layout_alignLeft="@+id/imageView"/>
+
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Cultural Benefits"
+                android:id="@+id/title2"
+                android:textIsSelectable="true"
+                android:textSize="@dimen/subtitle"
+                android:paddingLeft="8sp"
+                android:textColor="@color/cs_blue_image"
+                android:layout_below="@+id/title"
+                android:layout_alignLeft="@+id/title"
+                android:textStyle="italic"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Participating institutions listed to the right."
+                android:id="@+id/textView"
+                android:paddingLeft="5sp"
+                android:paddingTop="50sp"
+                android:layout_centerVertical="true"
+                android:layout_alignLeft="@+id/title2"
+                android:textColor="#555555"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Americas Corporate Citizenship"
+                android:id="@+id/textView2"
+                android:layout_gravity="left|center_vertical"
+                android:textStyle="bold"
+                android:textColor="@color/cs_blue"
+                android:layout_above="@+id/more_information"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="12dp"/>
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="More Information"
+                android:id="@+id/more_information"
+                android:layout_gravity="center"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:onClick="moreInformation"
+                />
+
+</RelativeLayout>
