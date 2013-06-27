@@ -44,7 +44,7 @@
                 android:textColor="@color/cs_blue_image"
                 android:layout_below="@+id/title"
                 android:layout_alignLeft="@+id/title"
-                android:textStyle="italic"/>
+                android:textStyle="italic" />
 
         <TextView
                 android:layout_width="wrap_content"
