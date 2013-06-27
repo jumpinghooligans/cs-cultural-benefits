@@ -116,10 +116,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InstitutionDetail.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="InstitutionDetail.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionDetail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="1" selection-start="520" selection-end="520" vertical-scroll-proportion="0.39824304">
+            <state line="18" column="1" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -158,7 +158,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_main_participating_institutions.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="fragment_main_participating_institutions.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml">
           <provider selected="true" editor-type-id="android-designer">
             <state />
@@ -218,11 +218,11 @@
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionHandler.java" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/InstitutionDetail.xml" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionDetail.java" />
-        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/activity_institution_detail.xml" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/MainActivity.java" />
+        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml" />
       </list>
     </option>
   </component>
@@ -605,12 +605,12 @@
       <workItem from="1371620096048" duration="1678000" />
       <workItem from="1372285131368" duration="9365000" />
       <workItem from="1372297901951" duration="3675000" />
-      <workItem from="1372306842574" duration="836000" />
+      <workItem from="1372306842574" duration="1033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25198000" />
+    <option name="totallyTimeSpent" value="25395000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -636,8 +636,8 @@
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23675497" sideWeight="0.75586355" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32395142" sideWeight="0.75586355" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23675497" sideWeight="0.75586355" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32395142" sideWeight="0.75586355" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -788,16 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="41" selection-end="53" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_home.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
@@ -844,7 +834,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionDetail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="1" selection-start="520" selection-end="520" vertical-scroll-proportion="0.39824304">
+        <state line="18" column="1" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="41" selection-end="53" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

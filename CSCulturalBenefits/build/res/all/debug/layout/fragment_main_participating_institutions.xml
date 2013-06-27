@@ -15,8 +15,9 @@
             android:layout_gravity="center"
             android:textColor="#ffffff"
             android:textStyle="bold"
-            android:padding="5sp"
-            android:background="@color/cs_blue_image"/>
+            android:padding="10sp"
+            android:background="@color/cs_blue_image"
+            android:paddingBottom="15sp"/>
 
     <ListView
             android:layout_width="fill_parent"
