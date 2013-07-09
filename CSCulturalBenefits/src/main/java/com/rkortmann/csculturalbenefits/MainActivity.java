@@ -1,10 +1,5 @@
 package com.rkortmann.csculturalbenefits;
 
-import java.util.Locale;
-
-import android.app.ActionBar;
-import android.app.FragmentTransaction;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.database.Cursor;
 import android.net.Uri;
@@ -20,11 +15,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.Window;
 import android.widget.AdapterView;
-import android.widget.Button;
-import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
-import android.widget.Toast;
+
+import org.json.JSONObject;
 
 public class MainActivity extends FragmentActivity {
 
@@ -56,7 +50,6 @@ public class MainActivity extends FragmentActivity {
         // Set up the ViewPager with the sections adapter.
         mViewPager = (ViewPager) findViewById(R.id.pager);
         mViewPager.setAdapter(mSectionsPagerAdapter);
-
     }
 
     public void moreInformation(View v) {
@@ -132,7 +125,7 @@ public class MainActivity extends FragmentActivity {
         }
     }
 
-    static class ParticipatingVendorsFragment extends Fragment {
+    static class ParticipatingVendorsFragment extends Fragment implements InstitutionJsonHandler {
         /**
          * The fragment argument representing the section number for this
          * fragment.
@@ -151,12 +144,18 @@ public class MainActivity extends FragmentActivity {
             View rootView = inflater.inflate(R.layout.fragment_main_participating_institutions, container, false);
 
             lv = (ListView) rootView.findViewById(R.id.institutionList);
-            ih = new InstitutionHandler(getActivity(), null, null, 1);
+            ih = new InstitutionHandler(getActivity(), null, null, 5);
+
+            JSONHandler jsonHandler = new JSONHandler(ih);
+            jsonHandler.delegate = this;
+            jsonHandler.execute("http://rkortmann.com/csculturalbenefits/-1.json");
+
             adapter = new InstitutionAdapter(getActivity());
 
             cursor = adapter.queryInstitutions();
+            System.out.println("ONCREATE: " + cursor.getCount());
 
-            lv.setAdapter(new SimpleCursorAdapter(getActivity(), android.R.layout.simple_list_item_1, cursor, new String[] { ih.COLUMN_NAME }, new int[] { android.R.id.text1 }));
+            lv.setAdapter(new SimpleCursorAdapter(getActivity(), android.R.layout.two_line_list_item, cursor, new String[] { ih.COLUMN_NAME, ih.COLUMN_ADDRESS_STREET }, new int[] { android.R.id.text1, android.R.id.text2 }));
             lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -164,13 +163,18 @@ public class MainActivity extends FragmentActivity {
 
                     cursor.moveToPosition(i);
 
-                    intent.putExtra("name", cursor.getString(1));
+                    intent.putExtra("institution_id", cursor.getInt(cursor.getColumnIndex(ih.COLUMN_ID)));
 
                     startActivity(intent);
                 }
             });
 
             return rootView;
+        }
+
+        public void processResult(JSONObject json) {
+            System.out.println("UPDATE LISTVIEW: " + json.length());
+            System.out.println("ONUPDATE: " + cursor.getCount());
         }
     }
 

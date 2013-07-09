@@ -11,18 +11,20 @@ public final class R {
     public static final class attr {
     }
     public static final class color {
-        public static final int cs_blue=0x7f040000;
-        public static final int cs_blue_image=0x7f040001;
-        public static final int cs_blue_image_85=0x7f040002;
-        public static final int dark_gray=0x7f040003;
-        public static final int light_gray=0x7f040004;
-        public static final int white=0x7f040005;
+        public static final int black=0x7f040000;
+        public static final int cs_blue=0x7f040001;
+        public static final int cs_blue_image=0x7f040002;
+        public static final int cs_blue_image_85=0x7f040003;
+        public static final int dark_gray=0x7f040004;
+        public static final int light_gray=0x7f040005;
+        public static final int white=0x7f040006;
     }
     public static final class dimen {
         public static final int activity_horizontal_margin=0x7f050000;
         public static final int activity_vertical_margin=0x7f050001;
-        public static final int subtitle=0x7f050002;
-        public static final int titleText=0x7f050003;
+        public static final int medium_text=0x7f050002;
+        public static final int subtitle=0x7f050003;
+        public static final int titleText=0x7f050004;
     }
     public static final class drawable {
         public static final int border=0x7f020000;
@@ -30,18 +32,23 @@ public final class R {
         public static final int logo=0x7f020002;
     }
     public static final class id {
-        public static final int InstitutionDetailName=0x7f090000;
-        public static final int action_settings=0x7f09000b;
-        public static final int imageView=0x7f090003;
-        public static final int institutionList=0x7f09000a;
-        public static final int more_information=0x7f090007;
-        public static final int pager=0x7f090002;
-        public static final int progressBar=0x7f090009;
-        public static final int scrollView=0x7f090008;
-        public static final int textView=0x7f090001;
-        public static final int textView2=0x7f090006;
-        public static final int title=0x7f090004;
-        public static final int title2=0x7f090005;
+        public static final int action_settings=0x7f090010;
+        public static final int addressCityStateZip=0x7f090002;
+        public static final int addressStreet=0x7f090001;
+        public static final int description=0x7f090005;
+        public static final int imageView=0x7f090007;
+        public static final int institutionList=0x7f09000f;
+        public static final int more_information=0x7f09000c;
+        public static final int name=0x7f090000;
+        public static final int pager=0x7f090006;
+        public static final int phone=0x7f090003;
+        public static final int progressBar=0x7f09000e;
+        public static final int scrollView=0x7f09000d;
+        public static final int textView=0x7f09000a;
+        public static final int textView2=0x7f09000b;
+        public static final int title=0x7f090008;
+        public static final int title2=0x7f090009;
+        public static final int url=0x7f090004;
     }
     public static final class layout {
         public static final int activity_institution_detail=0x7f030000;

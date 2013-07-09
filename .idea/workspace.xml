@@ -38,25 +38,30 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b387a2d-9c32-490c-b7b4-56404a617b5f" name="Default" comment="" />
+    <list default="true" id="3b387a2d-9c32-490c-b7b4-56404a617b5f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionJsonHandler.java" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\README" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/CSCulturalBenefits.iml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/CSCulturalBenefits.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefitsProject.iml" afterPath="$PROJECT_DIR$/CSCulturalBenefitsProject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/Institution.java" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/Institution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionAdapter.java" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionDetail.java" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionDetail.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionHandler.java" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/MainActivity.java" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/source/r/debug/com/rkortmann/csculturalbenefits/R.java" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/source/r/debug/com/rkortmann/csculturalbenefits/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/activity_institution_detail.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/activity_institution_detail.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/activity_institution_detail.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/activity_institution_detail.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_participating_institutions.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_participating_institutions.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="CSCulturalBenefits.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment_main_dummy.xml" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1371598185743" ignored="false" />
-    <file path="/Dummy.txt" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372298915688" ignored="false" />
-    <file path="/MainActivity.java" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372307576959" ignored="false" />
-    <file path="/fragment_main_participating_businesses.xml" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1371618339966" ignored="false" />
-    <file path="/fragment_main_home.xml" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372308022329" ignored="false" />
-    <file path="/fragment.java" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1371619385225" ignored="false" />
-    <file path="/dimens.xml" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372285567196" ignored="false" />
-    <file path="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_home.xml" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372294024607" ignored="false" />
-    <file path="/colors.xml" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372301413164" ignored="false" />
-    <file path="/Institution.java" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372288290151" ignored="false" />
-    <file path="/InstitutionHandler.java" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372296922902" ignored="false" />
-    <file path="/InstitutionAdapter.java" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372296365709" ignored="false" />
-    <file path="/fragment_main_participating_institutions.xml" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372300711128" ignored="false" />
-    <file path="/InstitutionDetail.java" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372299515949" ignored="false" />
-    <file path="/activity_institution_detail.xml" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372301204585" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="3b387a2d-9c32-490c-b7b4-56404a617b5f" time="1372307214340" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,10 +122,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/MainActivity.java">
+      <file leaf-file-name="InstitutionHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="43" selection-start="1608" selection-end="1668" vertical-scroll-proportion="0.0">
+            <state line="131" column="53" selection-start="5909" selection-end="5909" vertical-scroll-proportion="0.0" vertical-offset="1687" max-vertical-offset="2822">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_main_participating_institutions.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_participating_institutions.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="43" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.74823946" vertical-offset="0" max-vertical-offset="578">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_institution_detail.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/activity_institution_detail.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="29" selection-start="69" selection-end="69" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="1547">
               <folding />
             </state>
           </provider>
@@ -132,37 +155,16 @@
             <state />
           </provider>
           <provider editor-type-id="text-editor">
-            <state line="13" column="34" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0">
+            <state line="13" column="34" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1547">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InstitutionDetail.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="InstitutionDetail.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionDetail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="49" selection-start="297" selection-end="297" vertical-scroll-proportion="0.19912152">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#380#403#0" expanded="true" />
-                <element signature="e#531#578#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="49" column="88" selection-start="1968" selection-end="1968" vertical-scroll-proportion="0.0" vertical-offset="263" max-vertical-offset="799">
               <folding />
             </state>
           </provider>
@@ -174,7 +176,7 @@
             <state />
           </provider>
           <provider editor-type-id="text-editor">
-            <state line="43" column="47" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.0">
+            <state line="43" column="47" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1547">
               <folding />
             </state>
           </provider>
@@ -186,16 +188,25 @@
             <state />
           </provider>
           <provider editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="41" selection-end="53" vertical-scroll-proportion="0.0">
+            <state line="2" column="13" selection-start="41" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colors.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/colors.xml">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="12" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
+            <state line="4" column="31" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/JSONHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="13" selection-start="1581" selection-end="1581" vertical-scroll-proportion="0.0" vertical-offset="365" max-vertical-offset="1054">
               <folding />
             </state>
           </provider>
@@ -204,16 +215,7 @@
       <file leaf-file-name="Institution.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/Institution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InstitutionHandler.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0">
+            <state line="97" column="0" selection-start="1972" selection-end="1972" vertical-scroll-proportion="0.0" vertical-offset="1632" max-vertical-offset="2125">
               <folding />
             </state>
           </provider>
@@ -226,42 +228,80 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="CSCulturalBenefitsProject" />
+              <option name="path" value="C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\build.gradle" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="CSCulturalBenefitsProject" />
+                <option name="path" value="$PROJECT_DIR$/build.gradle" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="CSCulturalBenefits" />
+                <option name="path" value="$PROJECT_DIR$/CSCulturalBenefits/build.gradle" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/values/values.xml" />
-        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/drawable/border.xml" />
-        <option value="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_participating_businesses.xml" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_businesses.xml" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/dimens.xml" />
-        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/Institution.java" />
-        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionAdapter.java" />
-        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionHandler.java" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/InstitutionDetail.xml" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/MainActivity.java" />
-        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_home.xml" />
+        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml" />
+        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/Institution.java" />
+        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionAdapter.java" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/activity_institution_detail.xml" />
+        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/AsyncResponse.java" />
+        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionJsonHandler.java" />
+        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/JSONHandler.java" />
+        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/MainActivity.java" />
+        <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionHandler.java" />
         <option value="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionDetail.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
+    <option name="x" value="497" />
+    <option name="width" value="1361" />
+    <option name="height" value="1080" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -280,8 +320,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -452,21 +490,127 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefitsProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="csculturalbenefits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefitsProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefitsProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefitsProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSCulturalBenefits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debug" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="NexusS" />
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="preferences.externalResources" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="NexusS" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -627,12 +771,12 @@
       <workItem from="1371620096048" duration="1678000" />
       <workItem from="1372285131368" duration="9365000" />
       <workItem from="1372297901951" duration="3675000" />
-      <workItem from="1372306842574" duration="1663000" />
+      <workItem from="1372306842574" duration="4858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26025000" />
+    <option name="totallyTimeSpent" value="29220000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -655,34 +799,62 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="497" y="0" width="1361" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23620309" sideWeight="0.75586355" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32339954" sideWeight="0.75586355" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.6705757" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32339954" sideWeight="0.75586355" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.40783665" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3347548" sideWeight="0.40783665" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25957447" sideWeight="0.5921634" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44577006" sideWeight="0.5921634" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286334" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24972796" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25110376" sideWeight="0.75586355" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24413647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30795848" sideWeight="0.659436" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24200426" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.6705757" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23620309" sideWeight="0.75586355" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.40783665" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286334" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.207608" sideWeight="0.7559653" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24403471" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32339954" sideWeight="0.75586355" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.6705757" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286334" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45010847" sideWeight="0.5921634" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24972796" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -726,7 +898,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -745,97 +917,33 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/content/ContextWrapper.class">
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/widget/AdapterView.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="182" column="0" selection-start="10682" selection-end="10682" vertical-scroll-proportion="0.82711864" />
+        <state line="22" column="19" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.33333334" vertical-offset="181" max-vertical-offset="2193" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/org/apache/http/impl/client/DefaultHttpClient.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/drawable/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.42288557">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_businesses.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="993" selection-start="1512" selection-end="2475" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="13" selection-start="170" selection-end="170" vertical-scroll-proportion="0.09626274" vertical-offset="0" max-vertical-offset="883" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="25" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
+        <state line="22" column="19" selection-start="572" selection-end="572" vertical-scroll-proportion="0.31965813" vertical-offset="153" max-vertical-offset="935">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionHandler.java">
+    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0">
+        <state line="170" column="0" selection-start="6079" selection-end="6079" vertical-scroll-proportion="0.0" vertical-offset="2237" max-vertical-offset="2822">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/colors.xml">
+    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionJsonHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="12" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#380#403#0" expanded="true" />
-            <element signature="e#531#578#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/activity_institution_detail.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="13" column="34" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="41" selection-end="53" vertical-scroll-proportion="0.0">
+        <state line="8" column="42" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <folding />
         </state>
       </provider>
@@ -845,28 +953,83 @@
         <state />
       </provider>
       <provider editor-type-id="text-editor">
-        <state line="43" column="47" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.0">
+        <state line="43" column="47" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="41" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/Institution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+        <state line="97" column="0" selection-start="1972" selection-end="1972" vertical-scroll-proportion="0.0" vertical-offset="1632" max-vertical-offset="2125">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/MainActivity.java">
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/java/util/concurrent/ThreadPoolExecutor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="43" selection-start="1608" selection-end="1668" vertical-scroll-proportion="0.0">
+        <state line="106" column="0" selection-start="5096" selection-end="5096" vertical-scroll-proportion="0.7838983" vertical-offset="1415" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/activity_institution_detail.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="13" column="34" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1530">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionDetail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="49" selection-start="297" selection-end="297" vertical-scroll-proportion="0.19912152">
+        <state line="49" column="88" selection-start="1968" selection-end="1968" vertical-scroll-proportion="0.0" vertical-offset="263" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/JSONHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="13" selection-start="1581" selection-end="1581" vertical-scroll-proportion="0.0" vertical-offset="365" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="31" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="53" selection-start="5909" selection-end="5909" vertical-scroll-proportion="0.0" vertical-offset="1687" max-vertical-offset="2822">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/activity_institution_detail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="29" selection-start="69" selection-end="69" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_participating_institutions.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="43" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.74823946" vertical-offset="0" max-vertical-offset="578">
           <folding />
         </state>
       </provider>

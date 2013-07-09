@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <color name="black">#000000</color>
     <color name="cs_blue">#003465</color>
     <color name="cs_blue_image">#005389</color>
     <color name="cs_blue_image_85">#D8005389</color>
@@ -10,6 +11,7 @@
 
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="medium_text">20dp</dimen>
     <dimen name="subtitle">30dp</dimen>
     <dimen name="titleText">48dp</dimen>
 
