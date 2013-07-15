@@ -53,4 +53,4 @@
             android:id="@+id/progressBar"
             android:layout_gravity="right|center_vertical"/>
 
-</LinearLayout>
+</LinearLayout><!-- From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\layout\fragment_main_participating_businesses.xml -->

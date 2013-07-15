@@ -11,15 +11,21 @@ public final class R {
     public static final class attr {
     }
     public static final class color {
+        /**  From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\colors.xml 
+         */
         public static final int black=0x7f040000;
         public static final int cs_blue=0x7f040001;
         public static final int cs_blue_image=0x7f040002;
         public static final int cs_blue_image_85=0x7f040003;
         public static final int dark_gray=0x7f040004;
         public static final int light_gray=0x7f040005;
-        public static final int white=0x7f040006;
+        public static final int transparent_black=0x7f040006;
+        public static final int white=0x7f040007;
     }
     public static final class dimen {
+        /**  From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\dimens.xml 
+ From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values-sw720dp-land\dimens.xml 
+         */
         public static final int activity_horizontal_margin=0x7f050000;
         public static final int activity_vertical_margin=0x7f050001;
         public static final int medium_text=0x7f050002;
@@ -28,16 +34,20 @@ public final class R {
     }
     public static final class drawable {
         public static final int border=0x7f020000;
-        public static final int ic_launcher=0x7f020001;
-        public static final int logo=0x7f020002;
+        public static final int drop_shadow=0x7f020001;
+        public static final int ic_launcher=0x7f020002;
+        public static final int logo=0x7f020003;
+        public static final int refresh_icon=0x7f020004;
     }
     public static final class id {
-        public static final int action_settings=0x7f090010;
+        public static final int action_about=0x7f090012;
+        public static final int action_refresh=0x7f090011;
         public static final int addressCityStateZip=0x7f090002;
         public static final int addressStreet=0x7f090001;
         public static final int description=0x7f090005;
         public static final int imageView=0x7f090007;
         public static final int institutionList=0x7f09000f;
+        public static final int institution_name=0x7f090010;
         public static final int more_information=0x7f09000c;
         public static final int name=0x7f090000;
         public static final int pager=0x7f090006;
@@ -56,24 +66,27 @@ public final class R {
         public static final int fragment_main_home=0x7f030002;
         public static final int fragment_main_participating_businesses=0x7f030003;
         public static final int fragment_main_participating_institutions=0x7f030004;
+        public static final int institution_row=0x7f030005;
     }
     public static final class menu {
         public static final int main=0x7f080000;
     }
     public static final class string {
-        public static final int action_settings=0x7f060000;
-        public static final int app_name=0x7f060001;
-        public static final int title_section1=0x7f060002;
-        public static final int title_section2=0x7f060003;
-        public static final int title_section3=0x7f060004;
+        /**  From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\strings.xml 
+         */
+        public static final int app_name=0x7f060000;
+        public static final int app_title=0x7f060001;
     }
     public static final class style {
-        /** 
+        /**  From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\styles.xml 
+
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
+ From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values-v11\styles.xml 
  API 11 theme customizations can go here. 
+ From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values-v14\styles.xml 
  API 14 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f070000;

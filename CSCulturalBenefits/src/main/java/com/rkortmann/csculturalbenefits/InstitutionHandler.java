@@ -90,22 +90,22 @@ public class InstitutionHandler extends SQLiteOpenHelper {
     }
 
     public void updateDBWithJSON(JSONObject json) {
-        System.out.println("UPDATE DB: " + json.length());
-
-        Iterator keys = json.keys();
-        ContentValues values = new ContentValues();
         SQLiteDatabase db = getWritableDatabase();
 
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_INSTITUTIONS);
         onCreate(db);
 
-        while(keys.hasNext()) {
-            String key = (String) keys.next();
-            if(!key.substring(0, 4).equals("jcr:")) {
-                System.out.println("Processing: " + key);
-                try {
+        try {
 
-                    JSONObject institute = json.getJSONObject(key).getJSONObject("jcr:content");
+            JSONArray institutions = json.getJSONArray("institutions");
+            ContentValues values = new ContentValues();
+
+            for(int i = 0; i < institutions.length(); i++) {
+                try {
+                    JSONObject institute = institutions.getJSONObject(i).getJSONObject("jcr:content");
+                    JSONObject googlePlacesData = institutions.getJSONObject(i).getJSONObject("gp:data");
+
+                    System.out.println("Processing: " + institute.getString("jcr:title"));
 
                     values = new ContentValues();
 
@@ -115,32 +115,40 @@ public class InstitutionHandler extends SQLiteOpenHelper {
                     values.put(COLUMN_ADDRESS_STATE, "state");
                     values.put(COLUMN_ADDRESS_ZIP, "55555");
 
-                    values.put(COLUMN_PHONE, "phone");
+                    values.put(COLUMN_PHONE, googlePlacesData.getString("formatted_phone_number"));
                     values.put(COLUMN_URL, institute.getString("linkUrl"));
 
-                    String desc = "";
                     try {
-                        JSONArray descJson = institute.getJSONArray("listItems");
-
-                        for(int i = 0; i < descJson.length(); i++) {
-                            desc += descJson.getString(i);
-                            if(i < (descJson.length() - 1)) {
-                                desc += "|";
-                            }
-                        }
-                    } catch (JSONException je) {
-                        desc = institute.getString("listItems");
+                        values.put(COLUMN_DESCRIPTION, institute.getJSONArray("listItems").join("|"));
+                    } catch(JSONException je) {
+                        values.put(COLUMN_DESCRIPTION, institute.getString("listItems"));
                     }
-                    values.put(COLUMN_DESCRIPTION, desc);
 
                     db.insert(TABLE_INSTITUTIONS, null, values);
-
                 } catch (Exception e) {
-                    System.out.println("JSON PARSE: " + e);
+                    e.printStackTrace();
                 }
-
             }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
+    }
+
+    public String parseDescription(JSONArray descJson) {
+        String desc = "";
+
+        try {
+            for(int j = 0; j < descJson.length(); j++) {
+                desc += descJson.getString(j);
+                if(j < (descJson.length() - 1)) {
+                    desc += "|";
+                }
+            }
+        } catch (Exception e) {
+           System.out.println("PARSE DESCRIPTION: " + e);
+        }
+
+        return desc;
     }
 
     public String parseAddress(String address, String section) {

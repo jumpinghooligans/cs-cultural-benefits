@@ -3,11 +3,12 @@ package com.rkortmann.csculturalbenefits;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.widget.BaseAdapter;
 
 /**
  * Created by Ryan on 6/26/13.
  */
-public class InstitutionAdapter {
+public class InstitutionAdapter  {
     SQLiteDatabase db;
     InstitutionHandler handler;
     Context context;
@@ -43,7 +44,7 @@ public class InstitutionAdapter {
     }
 
     public Cursor queryInstitutions() {
-        String[] cols = { handler.COLUMN_ID, handler.COLUMN_NAME, handler.COLUMN_ADDRESS_STREET };
+        String[] cols = { handler.COLUMN_ID, handler.COLUMN_NAME, handler.COLUMN_PHONE };
 
         Cursor c = db.query(handler.TABLE_INSTITUTIONS, cols, "", null, null, null, null);
 

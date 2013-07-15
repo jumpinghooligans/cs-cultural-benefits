@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\colors.xml -->
     <color name="black">#000000</color>
     <color name="cs_blue">#003465</color>
     <color name="cs_blue_image">#005389</color>
     <color name="cs_blue_image_85">#D8005389</color>
     <color name="dark_gray">#555555</color>
     <color name="light_gray">#cccccc</color>
+    <color name="transparent_black">#CC000000</color>
     <color name="white">#ffffff</color>
-
+    <!-- From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\dimens.xml -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="medium_text">20dp</dimen>
     <dimen name="subtitle">30dp</dimen>
     <dimen name="titleText">48dp</dimen>
-
-    <string name="action_settings">Settings</string>
+    <!-- From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\strings.xml -->
     <string name="app_name">CS Cultural Benefits</string>
-    <string name="title_section1">Section 1</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section3">Section 3</string>
-
+    <string name="app_title">Cultural Benefits</string>
+    <!-- From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in

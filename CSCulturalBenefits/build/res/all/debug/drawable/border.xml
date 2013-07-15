@@ -3,4 +3,4 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
     <solid android:color="#ffffff" />
     <stroke android:width="1dip" android:color="#555555"/>
-</shape>
+</shape><!-- From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\drawable\border.xml -->
