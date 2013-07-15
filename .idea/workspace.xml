@@ -16,48 +16,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96f04b52-4f38-4115-b2e9-ef14291b9203" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/GooglePlacesLookup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionListAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionLookup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/drawable/drop_shadow.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/institution_row.xml" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\build\res\all\debug\drawable-hdpi\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\build\res\all\debug\drawable-mdpi\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\build\res\all\debug\drawable-xhdpi\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\build\res\all\debug\drawable-xxhdpi\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\build\res\all\debug\drawable\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\java\com\rkortmann\csculturalbenefits\InstitutionJsonHandler.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable/logo.png" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/CSCulturalBenefits.iml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/CSCulturalBenefits.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefitsProject.iml" afterPath="$PROJECT_DIR$/CSCulturalBenefitsProject.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionAdapter.java" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionHandler.java" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/InstitutionHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/MainActivity.java" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/java/com/rkortmann/csculturalbenefits/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/source/r/debug/com/rkortmann/csculturalbenefits/R.java" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/source/r/debug/com/rkortmann/csculturalbenefits/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/activity_institution_detail.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/activity_institution_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable/border.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/drawable/border.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build.gradle" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_home.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_participating_businesses.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_participating_businesses.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_participating_institutions.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/layout/fragment_main_participating_institutions.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/layout/fragment_main_participating_institutions.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/menu/main.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/menu/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/menu/main.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/menu/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/values-sw720dp-land/values.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/values-sw720dp-land/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/values-v11/values.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/values-v11/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/values-v14/values.xml" afterPath="$PROJECT_DIR$/CSCulturalBenefits/build/res/all/debug/values-v14/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CSCulturalBenefitsProject.iws" />
@@ -722,6 +680,11 @@
       <created>1373663545832</created>
       <updated>1373663545832</updated>
     </task>
+    <task id="LOCAL-00001" summary="Picture listview">
+      <created>1373851143305</created>
+      <updated>1373851143305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -797,7 +760,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Picture listview&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Picture listview" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -812,6 +775,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Picture listview&#10;" />
+    <MESSAGE value="Picture listview" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
