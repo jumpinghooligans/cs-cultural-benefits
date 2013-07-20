@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CSCulturalBenefits/CSCulturalBenefits.iml" filepath="$PROJECT_DIR$/CSCulturalBenefits/CSCulturalBenefits.iml" />
       <module fileurl="file://$PROJECT_DIR$/CSCulturalBenefitsProject.iml" filepath="$PROJECT_DIR$/CSCulturalBenefitsProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs-cultural-benefits.iml" filepath="$PROJECT_DIR$/cs-cultural-benefits.iml" />
     </modules>
   </component>
 </project>

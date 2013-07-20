@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\assets" />
+        <source path="C:\Users\Ryan\Documents\GitHub\cs-cultural-benefits\CSCulturalBenefits\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\debug\assets" />
+        <source path="C:\Users\Ryan\Documents\GitHub\cs-cultural-benefits\CSCulturalBenefits\src\debug\assets" />
     </dataSet>
 
 </merger>

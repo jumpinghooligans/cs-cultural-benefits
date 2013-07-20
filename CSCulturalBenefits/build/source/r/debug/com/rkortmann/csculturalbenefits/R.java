@@ -11,7 +11,7 @@ public final class R {
     public static final class attr {
     }
     public static final class color {
-        /**  From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\colors.xml 
+        /**  From: C:\Users\Ryan\Documents\GitHub\cs-cultural-benefits\CSCulturalBenefits\src\main\res\values\colors.xml 
          */
         public static final int black=0x7f040000;
         public static final int cs_blue=0x7f040001;
@@ -23,8 +23,8 @@ public final class R {
         public static final int white=0x7f040007;
     }
     public static final class dimen {
-        /**  From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\dimens.xml 
- From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values-sw720dp-land\dimens.xml 
+        /**  From: C:\Users\Ryan\Documents\GitHub\cs-cultural-benefits\CSCulturalBenefits\src\main\res\values\dimens.xml 
+ From: C:\Users\Ryan\Documents\GitHub\cs-cultural-benefits\CSCulturalBenefits\src\main\res\values-sw720dp-land\dimens.xml 
          */
         public static final int activity_horizontal_margin=0x7f050000;
         public static final int activity_vertical_margin=0x7f050001;
@@ -37,7 +37,6 @@ public final class R {
         public static final int drop_shadow=0x7f020001;
         public static final int ic_launcher=0x7f020002;
         public static final int logo=0x7f020003;
-        public static final int refresh_icon=0x7f020004;
     }
     public static final class id {
         public static final int action_about=0x7f090012;
@@ -72,21 +71,21 @@ public final class R {
         public static final int main=0x7f080000;
     }
     public static final class string {
-        /**  From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\strings.xml 
+        /**  From: C:\Users\Ryan\Documents\GitHub\cs-cultural-benefits\CSCulturalBenefits\src\main\res\values\strings.xml 
          */
         public static final int app_name=0x7f060000;
         public static final int app_title=0x7f060001;
     }
     public static final class style {
-        /**  From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values\styles.xml 
+        /**  From: C:\Users\Ryan\Documents\GitHub\cs-cultural-benefits\CSCulturalBenefits\src\main\res\values\styles.xml 
 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
- From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values-v11\styles.xml 
+ From: C:\Users\Ryan\Documents\GitHub\cs-cultural-benefits\CSCulturalBenefits\src\main\res\values-v11\styles.xml 
  API 11 theme customizations can go here. 
- From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\values-v14\styles.xml 
+ From: C:\Users\Ryan\Documents\GitHub\cs-cultural-benefits\CSCulturalBenefits\src\main\res\values-v14\styles.xml 
  API 14 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f070000;

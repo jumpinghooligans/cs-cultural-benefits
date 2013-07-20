@@ -48,6 +48,7 @@ public class MainActivity extends FragmentActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         this.requestWindowFeature(Window.FEATURE_NO_TITLE);
+
         setContentView(R.layout.activity_main);
 
         // Create the adapter that will return a fragment for each of the three
@@ -58,6 +59,19 @@ public class MainActivity extends FragmentActivity {
         mViewPager = (ViewPager) findViewById(R.id.pager);
         mViewPager.setAdapter(mSectionsPagerAdapter);
     }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+        System.out.println("onRestart");
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        System.out.println("onResume");
+    }
+
 
     public void moreInformation(View v) {
         Intent mi = new Intent(Intent.ACTION_VIEW, Uri.parse("http://csintra.net/corporate_responsibility/corporatecitizenship/en/americas/culturalbenefits.html"));
@@ -128,15 +142,8 @@ public class MainActivity extends FragmentActivity {
         }
     }
 
-    /**
-     * A dummy fragment representing a section of the app, but that simply
-     * displays dummy text.
-     */
     static class HomepageFragment extends Fragment {
-        /**
-         * The fragment argument representing the section number for this
-         * fragment.
-         */
+
         public static final String ARG_SECTION_NUMBER = "section_number";
 
         public HomepageFragment() {

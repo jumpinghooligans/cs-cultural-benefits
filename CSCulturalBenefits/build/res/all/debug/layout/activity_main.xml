@@ -3,4 +3,4 @@
     android:id="@+id/pager"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity" /><!-- From: C:\Users\Ryan\AndroidStudioProjects\CSCulturalBenefitsProject\CSCulturalBenefits\src\main\res\layout\activity_main.xml -->
+    tools:context=".MainActivity" /><!-- From: C:\Users\Ryan\Documents\GitHub\cs-cultural-benefits\CSCulturalBenefits\src\main\res\layout\activity_main.xml -->
